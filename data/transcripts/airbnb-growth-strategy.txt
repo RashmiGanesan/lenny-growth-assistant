@@ -1,0 +1,83 @@
+# Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market
+
+## Transcript
+
+Geoffrey Moore (00:00:00):
+The tendency when you're in the chasm is, "I just need more customers. I should take any customer I could find," because we need revenue. It's like taking a match and running it back and forth under a log. It's not going to light the log. So how do you start a fire? Well, you start it by putting a little kindling, little crumpled up paper, and you hold the match in one place until the fire starts. That's why adjacency is so important. If you light the fire, the piece of kindling is here, but the log is in the other room. That doesn't work.
+
+Lenny (00:00:32):
+Today, my guest is Geoffrey Moore. Geoffrey is the author of maybe the most influential and important book on go-to-market ever written, Crossing the Chasm. Even though it's sold over a million copies, it still feels like people continue to reinvent many of the lessons that Geoffrey uncovered and shared in a seminal book.
+
+## The Adoption Lifecycle Framework
+
+**Technology Adoption Lifecycle:**
+Innovators → Early Adopters → Early Majority → Late Majority → Laggards
+
+**The Chasm:**
+The critical gap between Early Adopters and Early Majority where most startups fail.
+
+**Crossing the Chasm Strategy:**
+1. **Identify your beachhead:** Find a specific, niche market where you can dominate
+2. **Focus all resources:** Pour everything into winning that single beachhead
+3. **Expand to adjacent markets:** Once you dominate the beachhead, move to related markets
+4. **Scale across the mainstream:** Finally, expand to the broader market
+
+## The Bowling Pin Strategy
+
+**How to expand after your beachhead:**
+1. **Beachhead:** Dominate one specific niche completely
+2. **Adjacent pin:** Move to a closely related niche
+3. **Next pin:** Continue to adjacent but slightly different niches
+4. **Chain reaction:** As you knock down each "pin," you build momentum for the next
+
+**Key insight:** Each new market should be adjacent to your current strength, not a completely new domain. The customers should have similar needs and your solution should require minimal adaptation.
+
+## Go-to-Market Playbook by Stage
+
+**For Innovators and Early Adopters:**
+- Focus on the technology and vision
+- Sell to tech enthusiasts who want the latest innovation
+- Don't worry about polish or perfect UX
+- Emphasize what's possible, not what's practical
+
+**For Early Majority (Crossing the Chasm):**
+- Focus on solving a specific, painful problem
+- Sell to pragmatic buyers who want proven solutions
+- Polish the user experience
+- Provide complete solutions, not just technology
+- Emphasize reliability and support
+
+**For Late Majority:**
+- Focus on ease of use and standardization
+- Sell to conservative buyers who follow the crowd
+- Compete on price and convenience
+- Emphasize that "everyone else is using it"
+
+## The Seven Deadly Sins of Crossing the Chasm
+
+1. **Trying to sell to everyone:** Lack of focus on a specific beachhead
+2. **Under-resourcing the beachhead:** Not committing enough to win decisively
+3. **Choosing the wrong beachhead:** Picking a market that's too broad or not viable
+4. **Expanding too soon:** Moving to adjacent markets before dominating the beachhead
+5. **Wrong messaging for the stage:** Using Early Adopter messaging with Early Majority customers
+6. **Underestimating competition:** Not realizing established players will defend their turf
+7. **Failure to pivot:** Sticking with a failing strategy instead of adapting
+
+## Practical Tactics
+
+1. **Beachhead identification worksheet:**
+   - List potential target markets
+   - Score each on: market size, competition, adjacency to your strengths, urgency of need
+   - Choose the highest scoring option
+
+2. **Customer persona development:**
+   - Create detailed profiles of your ideal beachhead customers
+   - Include their pain points, decision criteria, and objections
+
+3. **Whole product definition:**
+   - List everything your beachhead customers need to be successful
+   - Include product, support, documentation, integration, etc.
+
+4. **Competitive positioning:**
+   - Create a positioning statement that clearly differentiates you
+   - Focus on why you're better for this specific beachhead

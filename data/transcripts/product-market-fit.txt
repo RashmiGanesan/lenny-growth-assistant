@@ -1,0 +1,52 @@
+# Brian Chesky’s new playbook
+
+## Transcript
+
+Brian Chesky (00:00:00):
+Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable. Because what everyone really wants is clarity. And what everyone really wants is to be able to row in the same direction really quickly. And so I basically got involved in every single detail and I basically told leaders that leaders are in the details. And there's this negative term called micromanagement. I think there's a difference between micromanagement, which is like telling people exactly what to do, and being in the details. Being in the details is what every responsible company's board does to the CEO. That doesn't mean the board is telling them what to do. But if you don't know the details, how do you know people are doing a good job? People think that great leader's job is to hire people and just empower them to do a good job. Well, how do you know they're doing a good job if you're not in the details? And so I made sure I was in the details and we really drove the product.
+
+Lenny (00:01:01):
+Today my guest is Brian Chesky. Brian is the CEO and co-founder of Airbnb, which he started in his apartment with his co-founders, Joe and Nate, and has turned into an $80 billion global business with travelers and homes in 220 countries. I was very lucky to get to work with Brian for many years, and my sense is if you ask people who they consider the most inspiring tech or business leaders today, Brian would be right near the top of that list.
+
+## Key Insights on Product Strategy
+
+**The shift from growth channels to product excellence:**
+Airbnb shifted away from traditional growth channels like paid acquisition and instead focused on building the best possible product. Brian's insight: "If we just build the best possible product and tell people about it, growth will happen."
+
+**Single roadmap across the entire company:**
+Instead of multiple competing roadmaps, Airbnb now has one unified roadmap that everyone in the company can see and contribute to. This creates alignment and prevents teams from working on conflicting priorities.
+
+**Deep CEO involvement in product details:**
+Brian stays closely involved with every design and feature, reviewing mockups and prototypes regularly. His philosophy: "Leaders are in the details."
+
+**Focus on core experience over feature proliferation:**
+Airbnb has become more disciplined about saying no to new features that don't directly improve the core experience of finding and booking amazing places to stay.
+
+**Metrics that matter:**
+Instead of vanity metrics, Airbnb focuses on metrics that directly correlate with user happiness and retention, like "would you recommend Airbnb to a friend?"
+
+## Tactical Playbook
+
+1. **Weekly product reviews:** Brian holds weekly product reviews where teams present what they're working on and get direct feedback.
+
+2. **Company-wide roadmap:** Maintain a single, visible roadmap that everyone from engineers to executives can access and understand.
+
+3. **Design-driven development:** Start with high-fidelity mockups and prototypes before writing any code to ensure alignment on the user experience.
+
+4. **Customer obsession:** Regularly read customer feedback and reviews, and use that insight to inform product decisions.
+
+5. **Simplify before you add:** Before adding any new feature, ask "what can we remove or simplify to make room for this?"
+
+## Brian's Leadership Philosophy
+
+**Balance and burnout prevention:**
+Brian has developed routines to prevent burnout, including strict boundaries between work and personal time, regular exercise, and dedicated learning time.
+
+**Continuous learning:**
+He sets aside time each week to learn new things, recognizing that as a CEO, he needs to stay ahead of the business's growth and evolution.
+
+**Personal board of directors:**
+Brian maintains a small group of trusted advisors who provide honest feedback and guidance on both professional and personal decisions.
+
+**Clarity over consensus:**
+He emphasizes that clear direction is more important than trying to please everyone. "What everyone really wants is clarity and to be able to row in the same direction really quickly."

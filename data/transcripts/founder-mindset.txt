@@ -1,0 +1,74 @@
+# More insights from Lenny's Podcast guests
+
+## From Shreyas Doshi on Decision Making
+
+**The power of pre-mortems:**
+"Most teams only do post-mortems after something fails. The most effective teams do pre-mortems—they imagine what could go wrong before starting and create contingency plans. This isn't about being pessimistic; it's about being prepared."
+
+**Three levels of product work:**
+"Operational work is getting things done. Tactical work is figuring out what to build. Strategic work is deciding what direction to go. Teams get into trouble when they confuse these levels or operate at the wrong one for the situation."
+
+**The prioritization framework:**
+"Most teams prioritize based on what's loudest or most urgent. Effective prioritization requires evaluating based on user impact, business impact, and effort. Create a simple scoring system and use it consistently."
+
+## From Brian Chesky on Leadership
+
+**Being in the details vs. micromanagement:**
+"There's a difference between micromanagement (telling people exactly what to do) and being in the details (understanding what's happening). If you're not in the details, how do you know if people are doing a good job?"
+
+**The shift to product-led growth:**
+"We moved away from traditional growth channels and focused on building the best possible product. The insight was simple: if we build something amazing and tell people about it, growth will follow."
+
+**Single company roadmap:**
+"Instead of multiple competing roadmaps, we have one unified roadmap that everyone can see. This creates incredible alignment and prevents teams from working at cross-purposes."
+
+## From Geoffrey Moore on Strategy
+
+**The bowling pin strategy:**
+"Start with one beachhead market and dominate it completely. Then move to adjacent markets, knocking them down like bowling pins. Each victory gives you momentum for the next."
+
+**Crossing the chasm:**
+"The hardest transition is from Early Adopters to Early Majority. Early Adopters want innovation; Early Majority want solutions. You need to completely change your messaging and positioning to make this jump."
+
+**Whole product thinking:**
+"Customers don't just buy your core product—they buy everything they need to be successful. This includes support, documentation, integration, and community. Define your 'whole product' and make sure you deliver it."
+
+## Common Themes Across Guests
+
+**Customer obsession:**
+Every successful founder emphasizes the importance of deeply understanding customers and their problems. As Brian Chesky says, "We read every piece of customer feedback. It's our compass."
+
+**Strategic focus:**
+Success comes from saying no to good opportunities so you can say yes to great ones. Geoffrey Moore's beachhead strategy is all about extreme focus.
+
+**Continuous learning:**
+The best leaders are perpetual learners. They set aside time to read, experiment, and stay ahead of their industry's evolution.
+
+**Clear communication:**
+Clarity beats consensus. Brian Chesky emphasizes that "what everyone really wants is clarity and to be able to row in the same direction really quickly."
+
+## Practical Frameworks to Implement
+
+1. **Weekly pre-mortems:** Spend 30 minutes each week imagining what could go wrong with your key projects.
+
+2. **Time allocation audit:** Track how you spend your time for one week, then reallocate to match strategic priorities.
+
+3. **Beachhead worksheet:** Systematically evaluate potential target markets using Geoffrey Moore's criteria.
+
+4. **Customer feedback system:** Create a regular process for collecting, analyzing, and acting on customer feedback.
+
+5. **Learning routines:** Schedule dedicated time for learning and professional development each week.
+
+## Mindset Shifts for Founders
+
+**From feature factory to problem solver:**
+Stop asking "what features should we build?" and start asking "what problems should we solve?"
+
+**From consensus to clarity:**
+Don't try to make everyone happy. Make clear decisions and communicate them effectively.
+
+**From growth at all costs to sustainable excellence:**
+Focus on building a product people love, not just acquiring users through paid channels.
+
+**From multitasking to deep focus:**
+Work on fewer things with greater intensity and attention to detail.

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lenny Growth Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fas fa-microphone-alt"></i>
+                <h1>Lenny Growth Assistant</h1>
+            </div>
+            
+            <button class="new-chat-btn" id="newChatBtn">
+                <i class="fas fa-plus"></i> New Chat
+            </button>
+            
+            <div class="settings">
+                <h3>Settings</h3>
+                <div class="setting-option">
+                    <label for="llmProvider">LLM Provider:</label>
+                    <select id="llmProvider">
+                        <option value="groq">Groq (Llama 3.3)</option>
+                        <option value="ollama">Ollama (Local)</option>
+                    </select>
+                </div>
+                <div class="setting-option">
+                    <label for="responseType">Response Type:</label>
+                    <select id="responseType">
+                        <option value="text">Text Answer</option>
+                        <option value="essay">Essay</option>
+                        <option value="html">HTML</option>
+                        <option value="markdown">Markdown</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="info">
+                <p><i class="fas fa-info-circle"></i> Powered by Lenny's Podcast transcripts</p>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="main-content">
+            <div class="chat-container" id="chatContainer">
+                <!-- Chat messages will be inserted here -->
+                <div class="welcome-message">
+                    <h2>Welcome to Lenny Growth Assistant!</h2>
+                    <p>Ask questions about startup growth, product-market fit, and founder stories from Lenny's Podcast.</p>
+                    <p>Try asking:</p>
+                    <ul>
+                        <li>"How do startups find product-market fit?"</li>
+                        <li>"Tell me about Airbnb's early growth"</li>
+                        <li>"Generate an essay about startup hiring"</li>
+                        <li>"Create HTML about growth metrics"</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <div class="input-container">
+                    <input 
+                        type="text" 
+                        id="messageInput" 
+                        placeholder="Type your question about startups..."
+                        autocomplete="off"
+                    >
+                    <button id="sendBtn">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="input-hint">
+                    <span>Press Enter to send • Shift+Enter for new line</span>
+                </div>
+            </div>
+        </main>
+
+        <!-- Artifact Viewer -->
+        <aside class="artifact-viewer" id="artifactViewer">
+            <div class="artifact-header">
+                <h3><i class="fas fa-file-code"></i> Artifact Viewer</h3>
+                <button class="close-artifact" id="closeArtifactBtn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="artifact-content" id="artifactContent">
+                <p class="artifact-placeholder">No artifact to display. Select "HTML" or "Markdown" response type to generate artifacts.</p>
+            </div>
+        </aside>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

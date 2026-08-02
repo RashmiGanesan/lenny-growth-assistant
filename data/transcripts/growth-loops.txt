@@ -1,0 +1,41 @@
+# The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)
+
+## Transcript
+
+Lenny (00:00:03):
+There's no one out there today who shares more wisdom, more consistently on the art of product management than Shreyas Doshi. Shreyas came out of nowhere a few years ago and started tweeting gems of insight about building product and the role of product management, and rightfully so, has built a huge following on Twitter. What I love about Shreyas is that his insights are often framed in really memorable and interesting ways and they're often contrarian and not ideas that you've heard elsewhere. Shreyas has worked at some of today's most important tech companies, including Yahoo, Twitter, Google, and most recently Stripe, both as an IC and a manager. And his advice is always rooted in his real life experiences at these companies.
+
+(00:00:48):
+In our chat, we focus on five topics and go deep on them. We talk about the power of pre-mortems. We talk about how to best use your time as a product manager. We look into the three levels of product work and how getting them wrong often leads to tension on your team. We dig into why most execution problems are really strategy problems. And we talk about a common pitfall in prioritization. And if you listen to the end, we actually throw in a bonus topic. I really appreciate that Shreyas made the time for our chat and I cannot wait for you to hear it.
+
+## Key Insights
+
+**Pre-mortems as a strategic tool:**
+Instead of just planning for success, great product managers run pre-mortems—they imagine what could go wrong and create contingency plans before starting a project.
+
+**Three levels of product work:**
+Shreyas identifies three distinct levels of product work: operational (getting things done), tactical (figuring out what to build), and strategic (deciding what direction to go). Teams get in trouble when they confuse these levels or operate at the wrong level.
+
+**Time allocation for product managers:**
+The best PMs spend roughly: 30% on strategy and direction, 30% on execution and delivery, 20% on stakeholder management, and 20% on learning and user research.
+
+**Most execution problems are strategy problems:**
+When teams struggle with execution, it's often because the strategy wasn't clear or compelling enough. Execution problems at the tactical level usually trace back to strategic ambiguity.
+
+**The prioritization pitfall:**
+Most product teams prioritize based on what seems most urgent or what stakeholders demand, rather than what creates the most user or business value. Effective prioritization requires saying no to good ideas so you can say yes to great ones.
+
+**Bonus insight:**
+The best product managers are "T-shaped"—they have deep expertise in one area (the vertical bar) and broad knowledge across many domains (the horizontal bar). This allows them to connect dots that specialists might miss.
+
+## Actionable Tactics
+
+1. **Run weekly pre-mortems:** Before starting any significant project, spend 30 minutes with your team imagining all the ways it could fail and create mitigation plans.
+
+2. **Label your work:** When discussing product work, explicitly label whether you're operating at the operational, tactical, or strategic level to ensure everyone is aligned.
+
+3. **Time audit:** Track how you spend your time for one week, then reallocate to match the 30-30-20-20 framework.
+
+4. **Value-based prioritization:** Create a simple scoring system that weighs user impact, business impact, and effort to make prioritization more objective.
+
+5. **The "why ladder":** When someone requests a feature, ask "why" five times to uncover the real underlying need.

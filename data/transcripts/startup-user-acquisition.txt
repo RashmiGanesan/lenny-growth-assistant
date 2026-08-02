@@ -1,0 +1,126 @@
+# User Acquisition Insights from Lenny's Podcast
+
+## Brian Chesky on Airbnb's Acquisition Evolution
+
+**Early days: Manual and unscalable**
+"In the beginning, we did things that didn't scale. We went to New York, rented a camera, and took professional photos of hosts' apartments ourselves. We discovered that listings with great photos got 2-3x more bookings."
+
+**The referral program breakthrough**
+"Our referral program was a game-changer. We offered travel credits to both the referrer and the referred friend. This created a viral coefficient where each user brought in about 1.2 additional users."
+
+**Shifting from paid to product-led growth**
+"As we scaled, we realized that paid acquisition was becoming less efficient. We made a strategic shift to focus on building such a great product that users would naturally tell others about it."
+
+**The power of community-driven acquisition**
+"Our hosts became our best marketers. When hosts had great experiences, they told other potential hosts. When guests had amazing stays, they told friends and family."
+
+## Shreyas Doshi on Product-Led Growth
+
+**The activation funnel**
+"Most startups focus on acquisition, but activation is where the magic happens. A user who has their first 'aha moment' with your product is 10x more likely to become a long-term user."
+
+**Metrics that matter for acquisition**
+"Don't just track top-line acquisition numbers. Track quality metrics: time to first value, activation rate, and retention by acquisition channel."
+
+**The free-to-paid conversion**
+"Your freemium or free trial model needs to be designed carefully. Users should experience enough value that they want to pay, but not so much that they never need to upgrade."
+
+**Product-qualified leads**
+"The best leads come from product usage, not marketing forms. Track which users are getting value from your product and target them for conversion."
+
+## Geoffrey Moore on B2B Acquisition
+
+**The beachhead approach to acquisition**
+"Don't try to acquire everyone. Start with one specific niche where you can become dominant, then use that position to acquire adjacent markets."
+
+**Crossing the chasm in B2B**
+"The biggest challenge in B2B is moving from visionary early adopters to pragmatic early majority. This requires completely changing your messaging and value proposition."
+
+**Whole product selling**
+"B2B customers don't just buy your software—they buy everything they need to be successful. This includes implementation, support, training, and community."
+
+**Reference selling**
+"In B2B, nothing sells like success stories. Build a portfolio of reference customers in your target market and use their stories to acquire similar companies."
+
+## Common Acquisition Frameworks
+
+**The AARRR Framework (Pirate Metrics)**
+1. **Acquisition:** How do users find you?
+2. **Activation:** Do they have a great first experience?
+3. **Retention:** Do they come back?
+4. **Revenue:** Do they pay?
+5. **Referral:** Do they tell others?
+
+**Growth Loops**
+1. **Content loops:** Users create content that attracts new users
+2. **Product loops:** Using the product brings in new users
+3. **Marketplace loops:** More supply attracts more demand
+
+**The 1-3-10 Rule**
+- 1% of users will love your product no matter what
+- 3% will like it with some improvements
+- 10% is your realistic target for product-market fit
+
+## Acquisition Channels by Stage
+
+**Early Stage (0-1M users)**
+- Manual outreach and personal connections
+- Content marketing (blog, podcast, video)
+- Community building (Slack, Discord, forums)
+- Partnerships and integrations
+
+**Growth Stage (1M-10M users)**
+- Referral and viral programs
+- SEO and organic search
+- Product-led growth features
+- Strategic partnerships
+
+**Scale Stage (10M+ users)**
+- Brand marketing and awareness
+- Enterprise sales teams
+- Channel partnerships
+- International expansion
+
+## Practical Acquisition Tactics
+
+1. **Channel testing framework:**
+   - Test multiple acquisition channels simultaneously
+   - Measure cost per acquisition and lifetime value
+   - Double down on what works, kill what doesn't
+
+2. **Referral program design:**
+   - Make it easy to share (one-click sharing)
+   - Offer meaningful rewards to both parties
+   - Track viral coefficient and optimize
+
+3. **Content marketing strategy:**
+   - Create content that answers your target audience's questions
+   - Optimize for search intent, not just keywords
+   - Repurpose content across multiple formats
+
+4. **Community building:**
+   - Create spaces where users can connect with each other
+   - Empower super users to help and mentor others
+   - Build rituals and events that strengthen community bonds
+
+5. **Product-led growth features:**
+   - Build sharing and collaboration into the product
+   - Create network effects where more users = more value
+   - Make it easy for users to invite others
+
+## Key Metrics to Track
+
+**Acquisition Metrics:**
+- Cost per acquisition (CPA) by channel
+- Viral coefficient (k-factor)
+- Channel mix and diversification
+
+**Quality Metrics:**
+- Activation rate (users who reach first value)
+- Retention by acquisition channel
+- Lifetime value (LTV) by channel
+
+**Efficiency Metrics:**
+- LTV to CAC ratio (aim for 3:1 or better)
+- Payback period (time to recover acquisition cost)
+- Channel scalability and saturation
