@@ -113,9 +113,4 @@ python -m http.server 8080
 - **Frontend**: HTML, CSS, JavaScript
 - **RAG**: FAISS, Sentence Transformers
 - **LLM**: Groq API (Llama 3.3) / Ollama
-- **Database**: Supabase PostgreSQL
-- **Deployment**: Can be deployed to Vercel/Render
-
-## License
-
-MIT
+- **Database**: SPostgreSQL
